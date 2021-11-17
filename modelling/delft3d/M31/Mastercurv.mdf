@@ -1,0 +1,139 @@
+Ident  = #Delft3D-FLOW 3.59.01.48550#
+Commnt =                  
+Runtxt = #Curv - Zmod - 20 layers#
+         #time step 15 s#
+         #inflows as discharges#
+         #Passauna River input: measured#
+         #Cloud cover: hourly resolution#
+         #AirH and Wind: TECPAR#
+         #Precipitation added#
+         #GroundOutlet: new serie provid#
+Filcco = #Grid_0025.grd#
+Anglat = -2.5000000e+001
+Grdang =  0.0000000e+000
+Filgrd = #Grid_0025.enc#
+MNKmax = 238 41 20
+Thick  =  5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+          5.0000000e+000
+Commnt =                  
+Depuni =  1.2000000e+001
+Commnt =                  
+Commnt =                 no. dry points: 1
+Fildry = #buffer-dryed_RG.dry#
+Commnt =                 no. thin dams: 0
+Commnt =                  
+Itdate = #2017-08-01#
+Tunit  = #M#
+Tstart =  4.7664000e+005
+Tstop  =  4.8528000e+005
+Dt     = 0.1
+Tzone  = 0
+Commnt =                  
+Sub1   = # TW #
+Sub2   = # C #
+Namc1  = #Tracer              #
+Commnt =                  
+Wnsvwp = #N#
+Filwnd = #M14.wnd#
+Wndint = #Y#
+Commnt =                  
+Commnt =                 initial conditions from initial conditions file
+Filic  = #M31.ini#
+Commnt =                  
+Commnt =                 no. open boundaries: 0
+Commnt =                  
+Ag     =  9.8100000e+000
+Rhow   =  1.0000000e+003
+Tempw  =  1.5000000e+001
+Salw   =  0.0000000e+000
+Wstres =  3.0000000e-003  0.0000000e+000  2.5000000e-003  1.2500000e+000  1.8000000e-003  3.0000000e+000
+Rhoa   =  1.0000000e+000
+Betac  =  5.0000000e-001
+Equili = #N#
+Tkemod = #K-epsilon   #
+Ktemp  = 0
+Fclou  =  0.0000000e+000
+Sarea  =  0.0000000e+000
+Secchi =  2.0000000e+000
+Stantn =  1.3000000e-003
+Dalton =  1.3000000e-003
+Filtmp = #heatfluxOCEAN_2020_03_HumTECPAR.tem#
+Temint = #Y#
+Commnt =                  
+Roumet = #M#
+Ccofu  =  3.5000000e-002
+Ccofv  =  3.5000000e-002
+Xlo    =  0.0000000e+000
+Vicouv =  0.0000000e+000
+Dicouv =  0.0000000e+000
+Htur2d = #N#
+Vicoww =  0.0000000e+000
+Dicoww =  0.0000000e+000
+Irov   = 0
+Commnt =                  
+Iter   =      2
+Dryflp = #YES#
+Dpsopt = #MAX#
+Dpuopt = #MIN#
+Dryflc =  1.0000000e-001
+Dco    = -9.9900000e+002
+Tlfsmo =  6.0000000e+001
+ThetQH =  0.0000000e+000
+Forfuv = #Y#
+Forfww = #Y#
+Sigcor = #N#
+Trasol = #Cyclic-method#
+Momsol = #Cyclic#
+Commnt =                  
+Commnt =                 no. discharges: 0
+Commnt =                 no. observation points: 0
+Commnt =                 no. drogues: 0
+Commnt =                  
+Commnt =                  
+Commnt =                 no. cross sections: 0
+Commnt =                  
+SMhydr = #YYYYY#     
+SMderv = #YYYYYY#    
+SMproc = #YYYYYYYYYY#
+PMhydr = #YYYYYY#    
+PMderv = #YYY#       
+PMproc = #YYYYYYYYYY#
+SHhydr = #YYYY#      
+SHderv = #YYYYY#     
+SHproc = #YYYYYYYYYY#
+SHflux = #YYYY#      
+PHhydr = #YYYYYY#    
+PHderv = #YYY#       
+PHproc = #YYYYYYYYYY#
+PHflux = #YYYY#      
+Flmap  =  4.7664000e+005 1  4.8528000e+005
+Flhis  =  4.7664000e+005 1  4.8528000e+005
+Flpp   =  5.4288000e+005 60  5.5152000e+005
+Flrst  = 10080
+Commnt =                  
+Online = #N#
+Zmodel = #Y#
+Zbot   = -16.949524
+Ztop   = 0.3
+Fileva = #Precipitation.eva#
+Evaint = #N#
+HeaOut = #Y#
+Commnt =                  
