@@ -1,0 +1,48 @@
+Domain, Checked : No        
+     Grid                  : Grid_0025.grd
+     Grid enclosure        : Grid_0025.enc
+     Bathymetry            : Spillway.dep
+     Dry points            : none
+     Thin dams             : none
+
+Time frame, Checked : Yes       
+
+Processes, Checked : No        
+
+Initial conditions, Checked : Yes       
+     Initial conditions    : 2501.ini
+
+Boundaries, Checked : No        
+     Boundary definitions  : inflowsPosition.bnd
+     Astronomical flow conditions : none
+     Astronomical corrections : none
+     Harmonic flow conditions : none
+     QH-relation flow conditions : none
+     Time series flow conditions : FlowCond.bct
+     Transport conditions  : TranspCond.bcc
+
+Physical parameters, Checked : No        
+     Roughness coefficients : none
+     Hor. viscosity/diffusivity : none
+     Heat flux model data  : heatfluxOCEAN_2020_03_HumTECPAR.tem
+     Sediment data         : none
+     Morphology data       : none
+     Uniform wind data     : wind_BARRAGEM.wnd
+     Space varying wind data : none
+
+Numerical parameters, Checked : No        
+
+Operations, Checked : No        
+     Discharge definitions : allinfows.src
+     Discharge data        : new_discharges_2020_05.dis
+     Dredging and dumping data : none
+
+Monitoring, Checked : No        
+     Observation points    : none
+     Drogues               : none
+     Cross-sections        : none
+
+Additional parameters, Checked : Yes       
+
+Output, Checked : No        
+     Fourier analysis data : none
