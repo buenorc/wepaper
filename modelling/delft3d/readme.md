@@ -9,7 +9,7 @@ This folder contains all boundary and initial conditions used to run all hypothe
 * **.eva** is the evaporation and precipitation file
 
 
-&\sigma; = 
+σ = 
 
 
 Note that there are 32 files **.ini**, one initial condition for each simulation. Wind-forcing and reservoir shape has been kept constant for all simulations.
